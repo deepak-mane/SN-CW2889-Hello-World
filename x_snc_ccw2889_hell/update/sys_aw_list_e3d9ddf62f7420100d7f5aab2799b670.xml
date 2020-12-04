@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Messages">ebd9ddf62f7420100d7f5aab2799b646</category>
+        <columns>active,message,number,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 05:43:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3d9ddf62f7420100d7f5aab2799b670</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CCW2889 Hello World" source="x_snc_ccw2889_hell">c06899fe2fb020100d7f5aab2799b6d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2889 Hello World">c06899fe2fb020100d7f5aab2799b6d9</sys_scope>
+        <sys_update_name>sys_aw_list_e3d9ddf62f7420100d7f5aab2799b670</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 05:43:47</sys_updated_on>
+        <table>x_snc_ccw2889_hell_message</table>
+        <title>All</title>
+        <workspace display_value="CCW2889 Hello World">13d955be2ff020100d7f5aab2799b62c</workspace>
+    </sys_aw_list>
+</record_update>
